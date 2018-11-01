@@ -49,7 +49,7 @@ header{
      margin:40px auto;
      display:flex;
      height: 80%;
-     width: 80%;
+     width: 100%;
      overflow: auto;
      overflow-y: hidden;
      
